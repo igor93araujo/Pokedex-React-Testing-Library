@@ -1,0 +1,1 @@
+{"fileName":"/home/igor/Documentos/TRYBE/projetos/FrontEnd/sd-027-b-project-react-testing-library/src/pages/PokemonDetails.js","id":"19","location":{"start":{"column":28,"line":32},"end":{"column":33,"line":32}},"mutatorName":"BooleanLiteral","replacement":"true","statusReason":"Ignored because of excluded mutation \"BooleanLiteral\"","status":"Ignored","static":false}
